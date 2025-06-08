@@ -58,7 +58,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ github.ahmetarabaci42 }}
+          github_user_name: ahmetarabaci42
 
 
 
