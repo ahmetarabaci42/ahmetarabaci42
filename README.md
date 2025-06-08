@@ -1,5 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/search/3d-pcb)
-
+![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/024/674/922/small_2x/close-up-of-electronic-circuit-board-technology-background-3d-rendering-generative-ai-free-photo.jpg)
 <h1 align="center">Hi 👋, I'm Ahmet Arabacı</h1>
 <h3 align="center">An electronic engineer from Turkey</h3>
 
