@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetarabaci42&show_icons=true&locale=en" alt="ahmetarabaci42" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetarabaci42&" alt="ahmetarabaci42" /></p>
+
 
 
 ![snake gif](https://github.com/ahmetarabaci42/ahmetarabaci42/blob/output/github-snake-dark.svg)
