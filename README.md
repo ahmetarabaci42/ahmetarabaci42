@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetarabaci42" alt="ahmetarabaci42" /></a> </p>
 
-- 🔭 I’m currently working on [AI Office Manager](https://github.com/comnalelectronics/ComNal_Manager)
+- 🔭 I’m currently working on [a humidifier project](https://github.com/comnalelectronics/ComNal_Manager) and [Hardware Design of the hexaGenMini](https://github.com/hTuneSys/hexaGenMini/tree/develop/hardware/hexaGenMini-v1)
 
-- 🌱 I’m currently learning **Golang,AI-tools,AI Agent,OpenCV**
+- 🌱 I’m currently learning **Rust,AI-tools,AI Agent,PCB design,System Programming,Embedded Programming,Linux system**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmetarabaci42](https://github.com/ahmetarabaci42)
 
