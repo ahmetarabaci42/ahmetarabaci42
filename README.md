@@ -1,40 +1,50 @@
-![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/024/674/922/small_2x/close-up-of-electronic-circuit-board-technology-background-3d-rendering-generative-ai-free-photo.jpg)
-<h1 align="center">Hi 👋, I'm Ahmet Arabacı</h1>
-<h3 align="center">An electronic engineer from Turkey</h3>
+# Hello 👋, I'm Ahmet Arabacı
+### ELECTRONIC ENGINEER
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetarabaci42&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetarabaci42" /> </p>
+I am currently studying Electrical and Electronics Engineering. I work as a PCB designer and embedded programmer on the ultrasonic humidifier project we call EVISTAL. I also work as a PCB designer at hexaTune LLC. I have previously worked on image processing and some artificial intelligence automation. I have also taken Unity training and am currently actively working with RUST.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetarabaci42" alt="ahmetarabaci42" /></a> </p>
+## Contact Me
+<p><a href="https://www.linkedin.com/in/ahmet-arabac%C4%B1-28580531b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/ahmet_arabaci_46" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-- 🔭 I’m currently working on [a humidifier project](https://github.com/comnalelectronics/ComNal_Manager) and [Hardware Design of the hexaGenMini](https://github.com/hTuneSys/hexaGenMini/tree/develop/hardware/hexaGenMini-v1)
+## Skills
 
-- 🌱 I’m currently learning **Rust,AI-tools,AI Agent,PCB design,System Programming,Embedded Programming,Linux system**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ahmetarabaci42](https://github.com/ahmetarabaci42)
-
-- 💬 Ask me about **Embedded System, PCB Design,Circuit Analysis, 3D Printer**
-
-- 📫 How to reach me **ahmetarabaci2005@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmet-arabac%C4%B1-28580531b/](https://www.linkedin.com/in/ahmet-arabac%C4%B1-28580531b/)
-
-- ⚡ Fun fact **An engineer who wants to work in any field of IT**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmet arabacı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet arabacı" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmet_arabaci_46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmet_arabaci_46" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetarabaci42&show_icons=true&locale=en&layout=compact" alt="ahmetarabaci42" /></p>
+### hexaGenMini
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetarabaci42&show_icons=true&locale=en" alt="ahmetarabaci42" /></p>
+[View Project](https://github.com/hTuneSys/hexaGenMini)
 
+---
 
+### YOTION
 
+a Note-Take Application
 
-![snake gif](https://github.com/ahmetarabaci42/ahmetarabaci42/blob/output/github-snake-dark.svg)
+[View Project](https://github.com/ahmetarabaci42/YOTION)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmetarabaci42&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetarabaci42&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetarabaci42&theme=tokyonight" alt="GitHub Streak" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetarabaci42&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
 
