@@ -1,37 +1,50 @@
-# Hello 👋, I'm Ahmet Arabacı
-### ELECTRONIC ENGINEER
+<div align="center">
 
-I am currently studying Electrical and Electronics Engineering. I work as a PCB designer and embedded programmer on the ultrasonic humidifier project we call EVISTAL. I also work as a PCB designer at hexaTune LLC. I have previously worked on image processing and some artificial intelligence automation. I have also taken Unity training and am currently actively working with RUST.
+  # Ahmet Arabacı
+  ### Electronic Engineer & Backend Developer
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/ahmet-arabac%C4%B1-28580531b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/ahmet_arabaci_46" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+  <p align="center">
+    <i>Building the bridge between hardware precision and software scalability.</i>
+  </p>
+  
+  ---
+</div>
 
-## Skills
+### 👋 Who Am I?
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-</p>
+I am an engineer driven by the excitement of building new systems from scratch. I don't just write code or design circuits; I leverage **Artificial Intelligence** as a co-pilot to create efficient, modern, and high-performance solutions.
 
-## Projects
+I have a strong passion for **Rust**, believing in its power to build the reliable infrastructure of the future. Whether it's atoms or bits, I love making them work together.
 
-### hexaGenMini
+### 💼 Current Roles
 
-[View Project](https://github.com/hTuneSys/hexaGenMini)
+I am actively working on dual tracks in the tech industry:
 
----
+* **⚡ Electronic Designer** at [HexaTune LLC](https://github.com/hTuneSys)
+    * *Focusing on PCB design and innovative hardware solutions.*
 
-### YOTION
+* **💻 Backend Developer** at **InspareAI**
+    * *Developing robust backend architectures (Private).*
 
-a Note-Take Application
+### 🧠 Tech & Philosophy
 
-[View Project](https://github.com/ahmetarabaci42/YOTION)
+> "Simplicity is the ultimate sophistication."
 
----
+* **Core Stack:** **Rust** 🦀 (My primary focus for robust systems)
+* **Workflow:** AI-Collaborative Engineering
+* **Interests:** Embedded Systems, IoT, Backend Development, PCB Design.
+
+### 🚀 Projects
+
+Check out my repositories to see my journey with Rust and Embedded Systems.
+* **YOTION:** A Note-Taking Application.
+* **EVISTAL:** Ultrasonic humidifier project (Embedded & PCB).
+
+<div align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</div>
 
 ## GitHub Stats
 
