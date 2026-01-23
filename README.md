@@ -52,14 +52,6 @@ I am actively working on dual tracks in the tech industry:
 ### 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmetarabaci42&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetarabaci42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetarabaci42&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetarabaci42&radius=16&theme=tokyonight&area=true&order=5" height="300" alt="activity-graph" />
 </div>
 
